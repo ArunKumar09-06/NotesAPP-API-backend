@@ -53,5 +53,5 @@ Create a `.env` file:
 ```env
 MONGO_URL=your_mongodb_connection_string
 JWT_SECRET=your_secret_key
-PORT=8002
+PORT=your_port_number
 ```
