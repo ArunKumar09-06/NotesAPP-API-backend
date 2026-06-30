@@ -459,28 +459,6 @@ Trash
 Responsive Mobile View
 ```
 
----
-
-# 🎯 Future Improvements
-
-* Email Verification
-* Forgot Password
-* Profile Management
-* Dark Mode
-* Rich Text Editor
-* Image Uploads
-* File Attachments
-* Categories
-* Note Sharing
-* Real-time Synchronization
-* AI Note Summarization
-* Markdown Support
-* Offline Support
-* Docker Deployment
-* Unit Testing
-
----
-
 # 💻 Learning Outcomes
 
 Through this project, I gained practical experience with:
